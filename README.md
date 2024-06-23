@@ -1,1 +1,2 @@
-# lending_club_project
+# lending_club_project  
+#This project is quite interesting
